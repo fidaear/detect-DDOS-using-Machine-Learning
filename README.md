@@ -10,9 +10,9 @@ This project uses supervised Machine Learning algorithms to detect DDoS (Denial 
 
 ## ⚙️ Algorithms Used
 
-- ✅ Decision Tree
 - ✅ Random Forest
-- ✅ Support Vector Machine (SVM)
+- ✅ Logistic Regression
+- ✅ Neural Networks
 
 Each model is trained and evaluated to compare accuracy and performance.
 
